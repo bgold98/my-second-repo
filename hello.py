@@ -4,4 +4,5 @@ print("Fav food is steak")
 print('Hello my name is Kate')
 print('I was born in September')
 print('My favorite food is sushi')
+print("one last check")
 
